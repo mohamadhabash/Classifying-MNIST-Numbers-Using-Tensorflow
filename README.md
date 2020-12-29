@@ -1,4 +1,6 @@
 # Classifying MNIST Numbers
+
+
 MNIST dataset classification using LeNet Convolutional Neural Network.
 
 
